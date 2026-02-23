@@ -2,7 +2,7 @@
 
 Find your perfect department at Haramaya University through a personalized quiz and GPA analysis.
 
-🌐 **Live App**: [Your Deployment URL Here]
+🌐 **Live App**: [https://haramaya-department-navigator.vercel.app]
 
 ## For Students 📚
 
