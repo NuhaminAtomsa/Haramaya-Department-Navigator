@@ -30,6 +30,18 @@ Find your perfect department at Haramaya University through a personalized quiz 
 
 ## Tech Stack 🛠️
 
+**Frontend:**
+- React 18 (UI Library)
+- Vite (Build Tool & Dev Server)
+- React Router v6 (Client-side Routing)
+- Pure CSS (Styling)
+
+**Backend & Services:**
+- Supabase (Authentication & Database)
+- Vercel (Hosting & Deployment)
+
+**Development:**
+- Node.js & npm (Package Management)
 - React 18 + Vite
 - Supabase (Auth & Database)
 - React Router v6
