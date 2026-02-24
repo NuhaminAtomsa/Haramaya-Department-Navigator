@@ -15,9 +15,9 @@ Find your perfect department at Haramaya University through a personalized quiz 
 
 ### How to Use:
 1. **Sign Up** - Create a free account with your email
-2. **Take the Quiz** - Answer 10 questions about your interests and work preferences
+2. **Start Journey** - Answer 10 questions about your interests and work preferences
 3. **Enter Your GPA** - Input your freshman GPA (0.0-4.0 scale)
-4. **Get Results** - See your best match, Plan B options, and reach departments
+4. **See Results** - See your best match, Plan B options, and reach departments
 5. **Make Informed Decisions** - Use results to guide your department selection
 
 ### Features ✨
